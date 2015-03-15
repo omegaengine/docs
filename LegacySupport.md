@@ -1,0 +1,1 @@
+The engine is optimized for graphics cards supporting Shader Model 2.0b or better. However it automatically falls back to Shader Model 2.0, 1.1 or the fixed function pipeline on older hardware.
