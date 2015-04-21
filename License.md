@@ -1,5 +1,4 @@
 Licenses for individual components:
-  * `Common` library: [MIT license](http://www.opensource.org/licenses/mit)
   * OmegaEngine and AlphaFramework: [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/)
   * [Shaders](Shader): [MIT license](http://www.opensource.org/licenses/mit), portions [NVidia general developer license](http://developer.download.nvidia.com/licenses/general_license.txt)
   * [OmegaGUI](OmegaGUI): [MIT license](http://www.opensource.org/licenses/mit), portions [MS-PL](http://www.opensource.org/licenses/MS-PL)
