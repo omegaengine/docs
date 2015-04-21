@@ -12,4 +12,4 @@ The base directory is usually located in the directory of the application EXE an
 # Data archives #
 The data archives provide a a way to combine the entire game content (maps, scripts, models, textures, ...) into a few large files. This simplifies installation and updating and also reduces the likelihood of users accidentally modifying the content.
 
-The data archives are normal ZIP archives internally with the file ending `.pk5` instead of `.zip`. They should be stored in uncompressed form to speed up loading processes.
+The data archives are normal ZIP archives, optionally using a file extensions different from `.zip`. They should be stored in uncompressed form to speed up loading processes.
