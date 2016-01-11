@@ -19,4 +19,4 @@ The AlphaFramework is a Model-View-Presenter framework for creating game worlds.
 
 Visual Studio templates
 -----------------------
-The **[OmegaEngine Templates](http://visualstudiogallery.msdn.microsoft.com/47fa2bf9-9e54-4439-99ad-c17c0224a8be)** Visual Studio extension can help you set up a suitable project structure.
+The **[OmegaEngine Templates](https://visualstudiogallery.msdn.microsoft.com/65016a18-e699-47e8-ad91-114faf038d05)** Visual Studio extension can help you set up a suitable project structure.
