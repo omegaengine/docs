@@ -12,6 +12,7 @@ The engine is well-suited for strategy games, space simulations, etc.. It is not
  * **[Features](Features)**
  * **[Screenshots](Screenshots)**
  * **[Download](Download)**
+ * **[API documentation](API-documentation)**
 
 # Code sample #
 Renders a textured sphere:
