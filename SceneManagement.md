@@ -2,4 +2,4 @@ The engine manages the visible world it renders via [Views](View), which are a c
 
 See also: [Dispose](Dispose)
 
-![](http://omegaengine.de/images/class_diagrams/scene_management.png)
+![](images/class_diagrams/scene_management.png)

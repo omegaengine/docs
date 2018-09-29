@@ -9,7 +9,7 @@ This is sometimes referred to as world coordinates in the source code.
 |:----------------|:---------------------|
 | Positive Y axis | Depth of the terrain |
 
-![](http://omegaengine.de/images/coord_2d.gif)
+![](images/coord_2d.gif)
 
 
 ### 3D coordinates ###
@@ -22,4 +22,4 @@ This is sometimes referred to as engine coordinates in the source code.
 | Positive Y axis | Height of the terrain |
 | Negative Z axis | Depth of the terrain |
 
-![](http://omegaengine.de/images/coord_3d.gif)
+![](images/coord_3d.gif)

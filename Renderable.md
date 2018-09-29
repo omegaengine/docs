@@ -1,1 +1,1 @@
-![](http://omegaengine.de/images/class_diagrams/renderables.png)
+![](images/class_diagrams/renderables.png)

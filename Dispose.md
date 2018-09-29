@@ -4,4 +4,4 @@ Unlike other .NET objects you can not rely on the garbage collection to cleanup 
 
 If you forget a `.Dispose()` this may trigger an exception (in Debug mode) or a log entry (in Release mode) at a non-deterministic point in time.
 
-![](http://omegaengine.de/images/class_diagrams/scene_management.png)
+![](images/class_diagrams/scene_management.png)
