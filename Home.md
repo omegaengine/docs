@@ -11,7 +11,7 @@ The engine is well-suited for strategy games, space simulations, etc.. It is not
 
  * **[Features](Features)**
  * **[Screenshots](Screenshots)**
- * **[Downloads](https://github.com/omeaengine/omeaengine#downloads)**
+ * **[Downloads](https://github.com/omegaengine/omegaengine/blob/master/README.md#downloads)**
  * **[API documentation](https://api.omegaengine.de/)**
 
 # Code sample
