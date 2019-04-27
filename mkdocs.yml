@@ -1,0 +1,8 @@
+site_name: OmegaEngine
+site_url: https://docs.omegaengine.net/
+repo_url: https://github.com/omegaengine/docs
+
+theme: readthedocs
+markdown_extensions: [def_list]
+extra_css: [style.css]
+extra_javascript: [menu.js]
