@@ -5,7 +5,7 @@ An overview of the Engine's features:
     * 64bit-precision object positioning
     * [Terrain](scenes/terrain.md) rendering (heightmap-based)
   * [Shader](shaders/index.md) management
-    * [SAS](shaders/sas.md) support
+    * [DXSAS](shaders/semantics.md) support
     * Post-screen effects
     * Dynamic shader generation
   * [Asset](assets/index.md) management

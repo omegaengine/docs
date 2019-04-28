@@ -1,0 +1,3 @@
+The [DirectX Standard Annotations and Semantics (DXSAS)](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/dx9-graphics-reference-effects-dxsas) provide a way to add metadata to HLSL code that automates the integration between shader code and the engine. By specifying things such as value bindings for transform matrices shaders can more easily be exchanged between tools such as [FX Composer](http://developer.nvidia.com/fx-composer) and different graphics engines.
+
+The engine supports a subset of DXSAS 0.8.
