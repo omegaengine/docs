@@ -1,12 +1,12 @@
 .wy-menu-vertical span {
-  line-height: 14px;
+  line-height: 21px;
   font-weight: bold;
   color: black;
 }
 
 .wy-menu-vertical a {
   font-size: 85%;
-  line-height: 12px;
+  line-height: 21px;
   color: white;
 }
 
@@ -52,7 +52,7 @@ footer {
 }
 
 ul.subnav span.caption-text {
-  padding: 0.4045em 2.427em;
+  padding: 0.4em 2.4em;
 }
 
 span.caption-text {
