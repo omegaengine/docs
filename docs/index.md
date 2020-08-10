@@ -1,4 +1,6 @@
-![Logo](images/logo.png)
+title: Home
+
+# ![Logo](images/logo.png)
 
 The OmegaEngine is a general-purpose 3D graphics engine written in C# using the .NET Framework 2.0 and DirectX 9 via SlimDX.
 

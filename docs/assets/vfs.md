@@ -1,4 +1,4 @@
-title: VFS
+# VFS
 
 The Virtual File System (VFS) combines multiple directory structures into a single view of the filesystem used to load [assets](index.md).
 

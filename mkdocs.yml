@@ -1,8 +1,34 @@
 site_name: OmegaEngine
 site_url: https://docs.omegaengine.net/
 repo_url: https://github.com/omegaengine/docs
+edit_uri: blob/master/docs/
 
-theme: readthedocs
-markdown_extensions: [def_list]
-extra_css: [style.css]
-extra_javascript: [menu.js]
+theme:
+  name: material
+  palette:
+    primary: black
+  icon:
+    logo: octicons/home-24
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - awesome-pages
+  # - redirects:
+  #    redirect_maps:
+  #      old/file.md: new/file.md
+  #      some_file.md: http://example.com

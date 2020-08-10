@@ -1,4 +1,4 @@
-title: AlphaEditor
+# AlphaEditor
 
 See **[Screenshots](screenshots.md)**
 
