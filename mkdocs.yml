@@ -10,6 +10,8 @@ theme:
   icon:
     logo: octicons/home-24
     repo: fontawesome/brands/github
+  features:
+    - toc.integrate
 
 markdown_extensions:
   - meta
@@ -27,8 +29,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - awesome-pages
-  # - redirects:
-  #    redirect_maps:
-  #      old/file.md: new/file.md
-  #      some_file.md: http://example.com
