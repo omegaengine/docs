@@ -25,6 +25,6 @@ var scene = new Scene
 {
     Positionables = {Model.Sphere(engine, XTexture.Get(engine, "flag.png"))}
 };
-var view = new View(scene, new TrackCamera());
-engine.Views.Add(view);
+var camera = new TrackCamera();
+engine.Views.Add(new View(scene, camera));
 ```
